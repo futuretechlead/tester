@@ -1,18 +1,14 @@
 hello how are youqwqwdwd? 
-
-<<<<<<< HEAD
 I made changes with new branch created
 
-<<<<<<< HEAD
+
 I made my second change
 
 I made my third change.
 
 I made my 4 change.
-=======
-=======
-I made changes with new branch created.
 
->>>>>>> 6c73d8e (Update New Text Document.txt)
+I made changes with new branch created.
 I made my second change.
->>>>>>> ffaa1d7 (remote line)
+I made my second change....
+
