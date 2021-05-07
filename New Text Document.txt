@@ -2,8 +2,12 @@ hello how are youqwqwdwd?
 
 I made changes with new branch created
 
+<<<<<<< HEAD
 I made my second change
 
 I made my third change.
 
 I made my 4 change.
+=======
+I made my second change.
+>>>>>>> ffaa1d7 (remote line)
