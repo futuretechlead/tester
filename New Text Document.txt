@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello how are you? 
-=======
 hello how are you? 
->>>>>>> parent of 9461991 (made change to code)
